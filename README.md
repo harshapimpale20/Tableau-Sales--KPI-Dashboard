@@ -3,7 +3,7 @@
 Interactive Tableau dashboard tracking sales, profit, order count and regional, category and ship-mode performance.
 
 ## Live Dashboard
-[https://public.tableau.com/app/profile/hema.pimaple/viz/KPISDAshboard/Dashboard1](https://public.tableau.com/app/profile/hema.pimaple/vizzes)
+https://public.tableau.com/app/profile/hema.pimaple/viz/KPISDAshboard/Dashboard1
 
 
 ## Project Overview
